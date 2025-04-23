@@ -31,7 +31,7 @@ const linkStyle = {
 };
 
 // Functional Component
-const Section = ({ data = {} }) => {
+const Product = ({ data = {} }) => {
     const {
         imageURL = '',
         heading = '',
@@ -52,4 +52,4 @@ const Section = ({ data = {} }) => {
     );
 };
 
-export default Section;
+export default Product;

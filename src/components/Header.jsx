@@ -5,8 +5,8 @@ import { Typography , styled } from '@mui/material';
 
 import SearchIcon from '@mui/icons-material/Search';
 import WorkOutlineIcon from '@mui/icons-material/WorkOutline';
-import { applelogo,navData } from '../constants/constants';
-import { Opacity } from '@mui/icons-material';  
+import { applelogo,navData } from '../constants/constant';
+// import { Opacity } from '@mui/icons-material';  
 
 
 
