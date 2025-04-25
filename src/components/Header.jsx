@@ -17,6 +17,9 @@ const Component = styled(Box) ({
     background: '#f5f5f5',
     color: '#000',
     alignItems: 'center',
+    height: '44px',
+    color: '#000',
+    alignItems: 'center',
     height: '44px'
 }) ;
 
