@@ -51,5 +51,6 @@ const Product = ({ data = {} }) => {
         </Component>
     );
 };
+// JRBGHDERBFYAGHIHFIGREYFghghghlasdkfga<Gcyegflge,sjfbcxvhlayergrfwefg,bscghdjfvbahdsjfgeuyiwg
 
 export default Product;
