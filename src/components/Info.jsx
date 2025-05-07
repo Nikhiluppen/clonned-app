@@ -19,8 +19,11 @@ const  Info = () => {
             Get the latest information on Apple products and services, and including news, updates, and more. and shop now to get more deals and eligible for free shipping on orders over $50 of selected items.* <span style={{ color: '#2997ff'}}>  Shop now &gt;</span>
         </Typography>
        </Component>
+       
+     
+      
     );
     }
 
-    // WFWFUERHGPUAHLHFU7S7EELEUFGASG
+    // WFWFUERHGPUAHLHFU7S7EELEUFGASG frververffewfwd3df3xd
 export default Info;

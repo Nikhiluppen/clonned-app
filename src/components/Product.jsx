@@ -54,3 +54,4 @@ const Product = ({ data = {} }) => {
 // JRBGHDERBFYAGHIHFIGREYFghghghlasdkfga<Gcyegflge,sjfbcxvhlayergrfwefg,bscghdjfvbahdsjfgeuyiwg.jkb;hu;hlh bgugh;
 
 export default Product;
+
