@@ -30,7 +30,7 @@ const linkStyle = {
     cursor: 'pointer'
 };
 
-// Functional Componentwedqwdqwsq   wdwdQDQWDQW,HGGF,YGYG,ILYGsaEWD
+// Functional Componentwedqwdqwsqdqdqwdqc   wdwdQDQWDQW,HGGF,YGYG,ILYGsaEWD
 const Product = ({ data = {} }) => {
     const {
         imageURL = '',
