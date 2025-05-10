@@ -1,6 +1,6 @@
 import { Box, Typography, styled } from '@mui/material';
 
-// Styled Components efceceerf13f3fihewdfe;hfwehdwd;.wod    qhd.wh
+// Styled Components efceceerf13f3fihewdfe;hfwehdwd;.wod    qhd.whF,JFGJM
 const Component = styled(Box)({
     width: '100%',
     height: 580,
