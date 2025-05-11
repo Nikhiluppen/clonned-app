@@ -70,4 +70,4 @@ export const products = {
         imageURL: 'https://www.apple.com/v/home/be/images/promos/apple-watch-carbon-neutral/promo_carbon_neutral__fmzt9ypcw9e2_large.jpg'
     }
 }
-// HV,HG,GYGG,KTU
+// HV,HG,GYG    DS  DD  G,KTU
