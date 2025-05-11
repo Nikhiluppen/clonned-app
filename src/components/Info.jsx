@@ -25,5 +25,5 @@ const  Info = () => {
     );
     }
 
-    // WFWFUERHGPUAHqwdsdqwLHFUQWS QSwds dqwdwsaqdqw sqe wDSDdq7S7EELEUFGASG frververffewfwd3df3xd
+    // WFWFUERHGPUAHqwdsdqwLHFUQWS qwdqwdcd QSwds dqwdwsaqdqw sqe wDSDdq7S7EELEUFGASG frververffewfwd3df3xd
 export default Info;
