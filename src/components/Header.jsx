@@ -59,3 +59,18 @@ const Header = () => {
         // fafdsFDBHSBVDKJBVHLYWSQWSDQsxadwfiqwddqsd    cqsfdgafwfc;io   jwqdc   qj qjeifj   ;ojqi'  ji'jfERGFBHFGEYLA efnuefhuehf jhjlvf rfjhefwio fhefnefufhlwebnlc ruf
     }
 export default Header;
+
+
+
+function App() {
+  return (
+    <div className="App">
+      hello
+      <Home />
+      
+    </div>
+  );
+}
+// w,fhywbgflwehfulhidhckjdhwluihlciQWDS  QS  S QS        QQwhdiuwegfygwylwewd322e2edd2dbaskhbj;ohiuh;oihuhuigig
+
+export default App;
