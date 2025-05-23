@@ -27,16 +27,3 @@ const  Info = () => {
 
     // WFWFUERHGPUAHqwdsdqwLHFUQsafcjdbchj,cSUxhlauisdgWS qwdqwdcd QSwds dqwdwsaqdqw sqe wDSDdq7S7EELEUFGASG frververffewfwd3df3xd
 export default Info;
-
-function App() {
-  return (
-    <div className="App">
-      hello
-      <Home />
-      
-    </div>
-  );
-}
-// w,fhywbgflwehfulhidhckjdhwlu 12e213ihlciQWDS  QS  S QS        QQwhdiuwegfygwylwewd322e2edd2dbaskhbj;ohiuh;oihuhuigig
-
-export default App;
