@@ -60,17 +60,3 @@ const Header = () => {
     }
 export default Header;
 
-
-
-function App() {
-  return (
-    <div className="App">
-      hello
-      <Home />
-      
-    </div>
-  );
-}
-// w,jfksab.fkashdualshd.ahduiqwy78ltfi,djbchsjd,cbsildg,  323r32rQS  S QS        QQwhdiuwegfygwylwewd322e2edd2dbaskhbj;ohiuh;oihuhuigig
-
-export default App;

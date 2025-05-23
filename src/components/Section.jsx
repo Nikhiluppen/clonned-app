@@ -53,16 +53,3 @@ const Section = ({ data = {} }) => {
 };
 
 export default Section;
-
-function App() {
-  return (
-    <div className="App">
-      hello
-      <Home />
-      
-    </div>
-  );
-}
-// w,fhywbgflwewed12hfulhidhckjdhwlkfwuehf;wehuwehduwhdqw;oqliekbajhbldqwohuihlciQWDS  QS  S QS        QQwhdiuwegfygwylwewd322e2edd2dbaskhbj;ohiuh;oihuhuigig
-
-export default App;
