@@ -60,4 +60,4 @@ export default Product;
       // hello
       // <Home />
       
-    // </div>ihlciQWDS  QS  S QS        QQwhdiuwegfygwylwewd322e2edd2dbaskhbj;ohiuh;oihuhuigig
+    // </div>ihldwqciQWDS  QS  S QS        QQwhdiuwegfygwylwewd322e2edd2dbaskhbj;ohiuh;oihuhuigig
