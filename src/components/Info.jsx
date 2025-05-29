@@ -28,8 +28,3 @@ const  Info = () => {
     // WFWFUERHGPUAHqwdsdqwLHFUQsafcjdbchj,cSUxhlauisdgWS qwdqwdcd QSwds dqwdwsaqdqw sqe wDSDdq7S7EELEUFGASG frververffewfwd3df3xd
 export default Info;
 
-// w,fhywbgflwehfulhidhckjdhwlu <div className="App">
-      // hello
-      // <Home />
-      
-    // </div>ihlciQWDS  QS  S QS        QQwhdiuwegfygwylwewd322e2edd2dbaskhbj;ohiuh;oihuhuigig
