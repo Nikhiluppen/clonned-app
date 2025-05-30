@@ -17,7 +17,7 @@ const Home = () => {
         <Section  data={productsSection.macbookpro}/>
         <Products />
         
-{/* .khugyg;ihuasdadhjvjhv,hvh,gugqahuHVV,HQS    S   SUHegefwe,iyflu, */}
+{/* .khugyg;ihuasdajhvvjhmvhmj.oihifdytfjdhjvjhv,hvh,gugqahuHVV,HQS    S   SUHegefwe,iyflu, */}
         {/* dewd */}
 
         </div>
