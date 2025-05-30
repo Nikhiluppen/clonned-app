@@ -56,4 +56,4 @@ const Product = ({ data = {} }) => {
 export default Product;
 
 
-// w,fhywbgflwehfulhidhckjdhwlu <div className="App">
+// w,fhywbgflwehfulhidjbjh,ukghckjdhwlu <div className="App">
