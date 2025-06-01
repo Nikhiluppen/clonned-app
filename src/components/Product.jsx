@@ -56,4 +56,4 @@ const Product = ({ data = {} }) => {
 export default Product;
 
 
-// w,fhywbgflwehfulhidjbjh,uwddsqwdsqkghcm,nbmbmhbmjgkjdhwlu <div className="App">
+// w,fhywbgflwehfulhidjbjh,uwddsqwdsqkghcm,nbmbmhbmjgkjdhwlu <div className="App">// w,fhywbgflwehfulhidjbjh,uwddsqwdsqkghcm,nbmbmhbmjgkjdhwlu <div className="App">// w,fhywbgflwehfulhidjbjh,uwddsqwdsqkghcm,nbmbmhbmjgkjdhwlu <div className="App">// w,fhywbgflwehfulhidjbjh,uwddsqwdsqkghcm,nbmbmhbmjgkjdhwlu <div className="App">
