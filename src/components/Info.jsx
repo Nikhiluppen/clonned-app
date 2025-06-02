@@ -27,6 +27,3 @@ const  Info = () => {
 
     // HVHJVHGCGCCFD,jguguyfytdwdsdqwLHFUQsac gvghmm,gy,ggfcjdbchj,cSUxhlauisdgWS qwdqwdcd QSwds dqwdwsaqdqw sqe wDSDdq7S7EELEUFGASG frververffewfwd3df3xd
 export default Info;
-
-    // w,fhywbgflwehfulhidjbjh,uwddsqwdsqkghcm,nbmbmhbmjgkjdhwlu <div className="App">// w,fhywbgflwehfulhidjbjh,uwddsqwdsqkghcm,nbmbmhbmjgkjdhwlu <div className="App">
-    // w,fhywbgflwehfulhidjbjh,uwddsqwdsqkghcm,nbmbmhbmjgkjdhwlu <div className="App">// w,fhywbgflwehfulhidjbjh,uwddsqwdsqkghcm,nbmbmhbmjgkjdhwlu <div className="App">

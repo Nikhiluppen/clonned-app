@@ -23,5 +23,3 @@ const Home = () => {
         </div>
     );
     }
-//    ihlc,bjb,jhjyijb.hgliugQWDS  asdasdaQS  S QS        QQwhdiuwegfygwylwewd322e2edd2dbaskhbj;ohiuh;oihuhuigig// w,fhywbgflwehfulhidjbjh,uwddsqwdsqkghcm,nbmbmhbmjgkjdhwlu <div className="App">// w,fhywbgflwehfulhidjbjh,uwddsqwdsqkghcm,nbmbmhbmjgkjdhwlu <div className="App">    // w,fhywbgflwehfulhidjbjh,uwddsqwdsqkghcm,nbmbmhbmjgkjdhwlu <div className="App">// w,fhywbgflwehfulhidjbjh,uwddsqwdsqkghcm,nbmbmhbmjgkjdhwlu <div className="App">
-    // w,fhywbgflwehfulhidjbjh,uwddsqwdsqkghcm,nbmbmhbmjgkjdhwlu <div className="App">// w,fhywbgflwehfulhidjbjh,uwddsqwdsqkghcm,nbmbmhbmjgkjdhwlu <div className="App">
