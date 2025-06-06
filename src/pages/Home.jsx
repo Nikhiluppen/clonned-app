@@ -26,10 +26,4 @@ const Home = () => {
     export default Home;
     // w,fhywbgflwehfulhidjbjh,uwddsqwdsqkghcm,nbmbmhbmjgkjdhwlu <div className="App">// w,fhywbgflwehfulhidjbjh,uwddsqwdsqkghcm,nbmbmhbmjgkjdhwlu <div className="App">
         // w,fhywbgflwehfulhidjbjh,uwddsqwdsqkghcm,nbmbmhbmjgkjdhwlu <div className="App">// w,fhywbgflwehfulhidjbjh,uwddsqwdsqkghcm,nbmbmhbmjgkjdhwlu <div className="App">
-    // w,fhywbgfmyftkdsFDBHSBVDbjh,uwddsqwdsqkghcm,nbmbmhbmjgkjdhwlu <div className="App">// w,fhywbgflwehfulhidjbjh,uwddsqwdsqkghcm,nbmbmhbmjgkjdhwlu <div className="App">
-        // w,fhywbgflwehfulhidjbjh,uwddsqwdsqkghcm,nbmbmhbmjgkjdhwlu <div className="App">// w,fhywbgflwehfulhidjbjh,uwddsqwdsqkghcm,nbmbmhbmjgkjdhwlu <div className="App">
-    // w,fhywbgfmyftkdsFDBHSBVDKJBVdqwKJGBHJKGBHmyftkdsFDBHSBVDKJBVdqwKJGBHJKGBHlwehbjh,uwddsqwdsqkghcm,nbmbmhbmjgkjdhwlu <div className="App">// w,fhywbgflwehfulhidjbjh,uwddsqwdsqkghcm,nbmbmhbmjgkjdhwlu <div className="App">
-        // w,fhywbgflwehfulhidjbjh,uwddsqwdsqkghcm,nbmbmhbmjgkjdhwlu <div className="App">// w,fhywbgflwehfulhidjbjh,uwddsqwdsqkghcm,nbmbmhbmjgkjdhwlu <div className="App">
-    // w,fhywbgfmyftkdsFDBHSBVDKJBVdqwKJGBHJKGBHmyftkdsFDBHSBVDKJBVdqwKJGBHJKGBHlwehbjh,uwddsqwdsqkghcm,nbmbmhbmjgkjdhwlu <div className="App">// w,fhywbgflwehfulhidjbjh,uwddsqwdsqkghcm,nbmbmhbmjgkjdhwlu <div className="App">
-        // w,fhywbgflwehfulhidjbjh,uwddsqwdsqkghcm,nbmbmhbmjgkjdhwlu <div className="App">// w,fhywbgflwehfulhidjbjh,uwddsqwdsqkghcm,nbmbmhbmjgkjdhwlu <div className="App">
-    // w,fhywbgfmyftkdsFDBHSBVDKJBVdqwKJGBHJKGBHmyftkdsFDBHSBVDKJBVdqwKJGBHJKGBHlwehKJBVdqwKJGBHJKGBHmyftkdsFDBHSBVDKJBVdqwKJGBHJKGBHlwehfulhidjbjh,uwddsqwdsqkghcm,nbmbmhbmjgkjdhwlu <div className="App">// w,fhywbgflwehfulhidjbjh,uwddsqwdsqkghcm,nbmbmhbmjgkjdhwlu <div className="App">
+    // w,fhywbgfmyftkdsFDBHSBVDbjh,uwdd
