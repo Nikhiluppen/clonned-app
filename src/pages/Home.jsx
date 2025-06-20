@@ -16,7 +16,13 @@ const Home = () => {
         <Section data={productsSection.iphone} />
         <Section  data={productsSection.macbookpro}/>
         <Products />
-        
+         <div>
+        <Header />
+        <Info />
+        <Section  data={productsSection.iphonePro}/>
+        <Section data={productsSection.iphone} />
+        <Section  data={productsSection.macbookpro}/>
+        <Products />
 {/* .khugyg;ihuasdajhvvjhmvhmj.oihifdytfjdhjvjhv,hvh,gugqahuHVV,HQS    S   SUHegefwe,iyflu, */}
         {/* dewd */}
 
