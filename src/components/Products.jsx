@@ -76,6 +76,35 @@ const Section = ({ data = {} }) => {
         </Component>
     );
 };
+<style>.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #282c34;
+  padding: 1rem 2rem;
+}
+
+.logo {
+  color: white;
+  font-size: 1.5rem;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+}
+
+.nav-links a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+
+.nav-links a:hover {
+  text-decoration: underline;
+}
+</style>
 
 export default Section;
 
