@@ -284,3 +284,20 @@ const Section = ({ data = {} }) => {
         imageURL = ''',
     subHeadColor = '#333',
   } = data;
+  import React from 'react';
+import Header from '../components/Header';
+import Footer from '../components/Footer.jsx';
+
+const HomePage = () => {
+  return (
+    <>
+      <Header />
+      <main>
+        <h2>Welcome to Our Handyman Service</h2>
+      </main>
+      <Footer />
+    </>
+  );
+};
+
+export default HomePage;
