@@ -286,3 +286,55 @@ const HomePage = () => {
 };
 
 export default HomePage;
+        const SubHeading = styled(Typography)({
+          fontSize: 28,
+          padding: '0 0 5px 0',
+        });
+        
+        const linkStyle = {
+          color: '#2997ff',
+          padding: '0 30px',
+          fontSize: 21,
+          cursor: 'pointer',
+        };
+        
+        const Section = ({ data = {} }) => {
+          const {
+            imageURL = ''',
+        subHeadColor = '#333',
+      } = data;import React from 'react';
+import Header from '../components/Header';
+import Footer from '../components/Footer.jsx';
+
+const HomePage = () => {
+  return (
+    <>
+      <Header />
+      <main>
+        <h2>Welcome to Our Handyman Service</h2>
+      </main>
+      <Footer />
+    </>
+  );
+};
+
+export default HomePage;{
+            imageURL = ''',
+        subHeadColor = '#333',
+      } = data;import React from 'react';
+import Header from '../components/Header';
+import Footer from '../components/Footer.jsx';
+
+const HomePage = () => {
+  return (
+    <>
+      <Header />
+      <main>
+        <h2>Welcome to Our Handyman Service</h2>
+      </main>
+      <Footer />
+    </>
+  );
+};
+
+export default HomePage;
