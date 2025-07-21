@@ -34,74 +34,6 @@ const About = () => {
 };
 
 export default About;
-import { Typography, Box, styled } from "@mui/material";
-
-const Component = styled(Box)({
-  display: "flex",
-  justifyContent: "center",
-  padding: "12px 0",
-  color: "#1d1d1f",
-  fontSize: "14px",
-  alignItems: "center",
-  height: "44px",
-});
-
-const Info = () => {
-  return (
-    <Component>
-      <Typography>
-        Get the latest information on Apple products and services, including news,
-        updates, and more. Shop now to get great deals and enjoy free shipping
-        on orders over $50 of selected items.*{" "}
-        <span style={{ color: "#2997ff" }}>Shop now &gt;</span>
-      </Typography>
-    </Component>
-  );
-};
-
-export default Info;import React from 'react';
-// import Home from './pages/Home';
-import Header from '../components/Header';
-import Info from '../components/Info';
-import Section from '../components/Section';
-import Products from '../components/Products';
-import { productsSection } from '../constants/constant';
-
-
-const Home = () => {
-    return (
-        <div>
-        <Header />
-        <Info />
-        <Section  data={productsSection.iphonePro}/>
-        <Section data={productsSection.iphone} />
-        <Section  data={productsSection.macbookpro}/>
-        <Products />
-         <div>
-        <Header />
-        <Info />
-        <Section  data={productsSection.iphonePro}/>
-        <Section data={productsSection.iphone} />
-        <Section  data={productsSection.macbookpro}/>
-        <Products />
-{/* .khugyg;ihuasdajhvvjhmvhmj.oihifdytfjdhjvjhv,hvh,gugqahuHVV,HQS    S   SUHegefwe,iyflu, */}
-        {/* dewd */}
-
-        </div>
-    );
-    }
- 
-        <Typography component="span" style={linkStyle}>Buy &gt;</Typography>
-      </Typography>
-    </Component>
-  );
-};
-
-export default Section;
-import { Box, Typography, styled } from '@mui/material';
-import { Box, Typography, styled } from "@mui/material";
-
-const Component = styled(Box)({
   width: '100%',
   height: 580,
   display: 'flex',
@@ -232,6 +164,7 @@ const Section = ({ data = {} }) => {
 
 export default Section;
 import { Box, Typography, styled } from '@mui/material';
+
 
 
 

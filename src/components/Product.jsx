@@ -112,22 +112,6 @@ const Home = () => {
         <Products />
 {/* .khugyg;ihuasdajhvvjhmvhmj.oihifdytfjdhjvjhv,hvh,gugqahuHVV,HQS    S   SUHegefwe,iyflu, */}
         {/* dewd */}
-
-        </div>
-    );
-    }
- 
-        <Typography component="span" style={linkStyle}>Buy &gt;</Typography>
-      </Typography>
-    </Component>
-  );
-};
-
-export default Section;
-import { Box, Typography, styled } from '@mui/material';
-import { Box, Typography, styled } from "@mui/material";
-
-const Component = styled(Box)({
   width: '100%',
   height: 580,
   display: 'flex',
@@ -258,7 +242,6 @@ const Section = ({ data = {} }) => {
 
 export default Section;
 import { Box, Typography, styled } from '@mui/material';
-
 
 import { Box, Typography, styled } from '@mui/material';
 
