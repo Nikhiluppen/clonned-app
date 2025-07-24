@@ -193,31 +193,28 @@ const Section = ({ data = {} }) => {
                   </Component>
               );
           };
-          // JRBGHDERBFYAGHIHFImyftkdsFDBHSBVDKJBVdqwKJGBHJKGBHmyftkdsFDBHSBVDKJBVdqwKJGBHJKGBHGREYFghghghlasdkfga<Gcyegflge,sjfbcxvhlayergrfwefg,bscghdjfvbahdsjfgeuyiwg.jkb;hu;hlh bgugh;
-          
-          
-          const Section = ({ data = {} }) => {
-            const {
-              imageURL = '',
-              heading = '',
-              headColor = '#000',
-              subHeading = '',
-              subHeadColor = '#333'
-            } = data;
-          
-            return (
-              <Component style={{ background: `url(${imageURL}) 50% 50% no-repeat` }}>
-                <Heading style={{ color: headColor }}>{heading}</Heading>
-                <SubHeading style={{ color: subHeadColor }}>{subHeading}</SubHeading>
-                <Typography>
-                  <Typography component="span" style={linkStyle}>Learn more &gt;</Typography>
-                  <Typography component="span" style={linkStyle}>Buy &gt;</Typography>
-                </Typography>
-              </Component>
-            );
-          };
-          
-          export default Section;
-          import { Box, Typography, styled } from '@mui/material';
+         
+         const Section = ({ data = {} }) => {
+           const {
+             imageURL = '',
+             heading = '',
+             headColor = '#000',
+             subHeading = '',
+             subHeadColor = '#333'
+           } = data;
+         
+           return (
+             <Component style={{ background: `url(${imageURL}) 50% 50% no-repeat` }}>
+               <Heading style={{ color: headColor }}>{heading}</Heading>
+               <SubHeading style={{ color: subHeadColor }}>{subHeading}</SubHeading>
+               <Typography>
+                 <Typography component="span" style={linkStyle}>Learn more &gt;</Typography>
+                 <Typography component="span" style={linkStyle}>Buy &gt;</Typography>
+               </Typography>
+             </Component>
+           );
+         };
+         
+         export default Section;
           
         

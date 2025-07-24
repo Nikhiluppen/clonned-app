@@ -266,6 +266,4 @@ const Section = ({ data = {} }) => {
 };
 
 export default Section;
-import { Box, Typography, styled } from '@mui/material';
-
 

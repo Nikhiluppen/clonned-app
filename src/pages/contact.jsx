@@ -243,6 +243,7 @@ const Product = ({ data = {} }) => {
 // JRBGHDERBFYAGHIHFImyftkdsFDBHSBVDKJBVdqwKJGBHJKGBHmyftkdsFDBHSBVDKJBVdqwKJGBHJKGBHGREYFghghghlasdkfga<Gcyegflge,sjfbcxvhlayergrfwefg,bscghdjfvbahdsjfgeuyiwg.jkb;hu;hlh bgugh;
 
 
+c
 const Section = ({ data = {} }) => {
   const {
     imageURL = '',
@@ -265,5 +266,4 @@ const Section = ({ data = {} }) => {
 };
 
 export default Section;
-import { Box, Typography, styled } from '@mui/material';
 
