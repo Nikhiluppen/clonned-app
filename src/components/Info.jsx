@@ -101,6 +101,61 @@ import { productsSection } from '../constants/constant';
 
 const Home = () => {
     return (
+        heading = '',
+        headColor = '#000',
+        subHeading = '',
+        subHeadColor = '#333'
+    } = data;
+
+    return (
+        <Component style={{ background: `url(${imageURL}) 50% 50% no-repeat` }}>
+            <Heading style={{ color: headColor }}>{heading}</Heading>
+            <SubHeading style={{ color: subHeadColor }}>{subHeading}</SubHeading>
+            <Typography>
+                <Typography component="span" style={linkStyle}>Learn more &gt;</Typography>
+                <Typography component="span" style={linkStyle}>Buy &gt;</Typography>
+            </Typography>
+        </Component>
+    );
+};
+// JRBGHDERBFYAGHIHFImyftkdsFDBHSBVDKJBVdqwKJGBHJKGBHmyftkdsFDBHSBVDKJBVdqwKJGBHJKGBHGREYFghghghlasdkfga<Gcyegflge,sjfbcxvhlayergrfwefg,bscghdjfvbahdsjfgeuyiwg.jkb;hu;hlh bgugh;
+
+
+const Section = ({ data = {} }) => {
+  const {
+    imageURL = '',
+    heading = '',
+    headColor = '#000',
+    subHeading = '',
+    subHeadColor = '#333'
+  } = data;
+
+  return (
+    <Component style={{ background: `url(${imageURL}) 50% 50% no-repeat` }}>
+      <Heading style={{ color: headColor }}>{heading}</Heading>
+      <SubHeading style={{ color: subHeadColor }}>{subHeading}</SubHeading>
+      <Typography>
+        <Typography component="span" style={linkStyle}>Learn more &gt;</Typography>
+        <Typography component="span" style={linkStyle}>Buy &gt;</Typography>
+      </Typography>
+    </Component>
+  );
+};
+
+export default Section;
+import { Box, Typography, styled } from '@mui/material';
+
+import React from 'react';
+// import Home from './pages/Home';
+import Header from '../components/Header';
+import Info from '../components/Info';
+import Section from '../components/Section';
+import Products from '../components/Products';
+import { productsSection } from '../constants/constant';
+
+
+const Home = () => {
+    return (
         <div>
         <Header />
         <Info />
@@ -129,6 +184,10 @@ const Home = () => {
 };
 
 export default Section;
+import { Box, Typography, styled } from '@mui/material';
+import { Box, Typography, styled } from "@mui/material";
+
+const Component = styled(Box)({
   width: '100%',
   height: 580,
   display: 'flex',
@@ -235,7 +294,6 @@ const Product = ({ data = {} }) => {
 };
 // JRBGHDERBFYAGHIHFImyftkdsFDBHSBVDKJBVdqwKJGBHJKGBHmyftkdsFDBHSBVDKJBVdqwKJGBHJKGBHGREYFghghghlasdkfga<Gcyegflge,sjfbcxvhlayergrfwefg,bscghdjfvbahdsjfgeuyiwg.jkb;hu;hlh bgugh;
 
-
 const Section = ({ data = {} }) => {
   const {
     imageURL = '',
@@ -258,30 +316,3 @@ const Section = ({ data = {} }) => {
 };
 
 export default Section;
-import { Box, Typography, styled } from '@mui/material';
-
-
-
-const Section = ({ data = {} }) => {
-  const {
-    imageURL = '',
-    heading = '',
-    headColor = '#000',
-    subHeading = '',
-    subHeadColor = '#333'
-  } = data;
-
-  return (
-    <Component style={{ background: `url(${imageURL}) 50% 50% no-repeat` }}>
-      <Heading style={{ color: headColor }}>{heading}</Heading>
-      <SubHeading style={{ color: subHeadColor }}>{subHeading}</SubHeading>
-      <Typography>
-        <Typography component="span" style={linkStyle}>Learn more &gt;</Typography>
-        <Typography component="span" style={linkStyle}>Buy &gt;</Typography>
-      </Typography>
-    </Component>
-  );
-};
-
-export default Section;
-
