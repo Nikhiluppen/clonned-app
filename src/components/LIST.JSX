@@ -77,8 +77,24 @@ const Section = ({ data = {} }) => {
 };
 
 export default Section;
-import { Box, Typography, styled } from '@mui/material';
 
+import Box from '@mui/material/Box';
+import { Typography , styled } from '@mui/material';
+
+
+import SearchIcon from '@mui/icons-material/Search';
+import WorkOutlineIcon from '@mui/icons-material/WorkOutline';
+import { applelogo,navData } from '../constants/constant';
+// import { Opacity } from '@mui/icons-material';  
+
+
+
+const Component = styled(Box) ({
+    display: 'flex',
+    justifyContent: 'space-between',
+    padding: '10px 20px',
+    background: '#f5f5f5',
+    color: '#000',
 import React from 'react';
 // import Home from './pages/Home';
 import Header from '../components/Header';
@@ -100,6 +116,25 @@ const Home = () => {
          <div>
         <Header />
         <Info />
+        <Section  data={productsSection.iphonePro}/>
+        <Section data={productsSection.iphone} />
+        <Section  data={productsSection.macbookpro}/>
+        <Products />
+{/* .khugyg;ihuasdajhvvjhmvhmj.oihifdytfjdhjvjhv,hvh,gugqahuHVV,HQS    S   SUHegefwe,iyflu, */}
+        {/* dewd */}
+
+        </div>
+    );
+    }
+ 
+        <Typography component="span" style={linkStyle}>Buy &gt;</Typography>
+      </Typography>
+    </Component>
+  );
+};
+
+export default Section;
+import { Box, Typography, styled } from '@mui/material';
 import { Box, Typography, styled } from "@mui/material";
 
 const Component = styled(Box)({
@@ -145,46 +180,11 @@ const Section = ({ data = {} }) => {
       <Heading style={{ color: headColor }}>{heading}</Heading>
       <SubHeading style={{ color: subHeadColor }}>{subHeading}</SubHeading>
       <Typography>
-        </import React from 'react';
-        // import Home from './pages/Home';
-        import Header from '../components/Header';
-        import Info from '../components/Info';
-        import Section from '../components/Section';
-        import Products from '../components/Products';
-        import { productsSection } from '../constants/constant';
-        
-        
-        const Home = () => {
-            return (
-                <div>
-                <Header />
-                <Info />
-                <Section  data={productsSection.iphonePro}/>
-                <Section data={productsSection.iphone} />
-                <Section  data={productsSection.macbookpro}/>
-                <Products />
-                 <div>
-                <Header />
-                <Info />
-                <Section  data={productsSection.iphonePro}/>
-                <Section data={productsSection.iphone} />
-                <Section  data={productsSection.macbookpro}/>
-                <Products />
-        {/* .khugyg;ihuasdajhvvjhmvhmj.oihifdytfjdhjvjhv,hvh,gugqahuHVV,HQS    S   SUHegefwe,iyflu, */}
-                {/* dewd */}
-        
-                </div>
-            );
-            }
-         
-                <Typography component="span" style={linkStyle}>Buy &gt;</Typography>
-              </Typography>
-            </Component>
-          );
-        };
-        
-        export default Section;
-        
+        <Typography component="span" style={linkStyle}>Learn more &gt;</Typography>
+        <Typography component="span" style={linkStyle}>Buy &gt;</Typography>
+      </Typography>
+    </Component>
+
         heading = '',
         headColor = '#000',
         subHeading = '',
@@ -201,8 +201,4 @@ const Section = ({ data = {} }) => {
             </Typography>
         </Component>
     );
-
-
-
-
-
+};
