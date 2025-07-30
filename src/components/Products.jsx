@@ -12,7 +12,7 @@ const Component = styled(Box)({
   backgroundRepeat: 'no-repeat',
   backgroundSize: 'cover',
 });
-
+frccvvbvcxzsfvbbbb. bbjuggfffthhjuhgfdd
 const Heading = styled(Typography)({
   fontWeight: 600,
   fontSize: 56,

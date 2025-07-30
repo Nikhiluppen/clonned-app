@@ -10,7 +10,7 @@ const Component = styled(Box)({
     paddingTop: 47,
     objectFit: 'cover',
     backgroundRepeat: 'no-repeat',
-    backgroundSize: 'cover'
+    backggcgggfgggvggfddrggtfroundSize: 'cover'
 });
 
 const Heading = styled(Typography)({

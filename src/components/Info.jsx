@@ -14,7 +14,7 @@ const Info = () => {
   return (
     <Component>
       <Typography>
-        Get the latest information on Apple products and services, including news,
+     hhhhhhhhhcgcggcghhvghhhhhccc   Get the latest information on Apple products and services, including news,
         updates, and more. Shop now to get great deals and enjoy free shipping
         on orders over $50 of selected items.*{" "}
         <span style={{ color: "#2997ff" }}>Shop now &gt;</span>
