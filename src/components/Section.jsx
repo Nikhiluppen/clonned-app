@@ -11,7 +11,7 @@ const Component = styled(Box)({
   backgroundRepeat: 'no-repeat',
   backgroundSize: 'cover'
 });
-
+cgyhbccddfftggggggffffff flag chicanery tdh such catchy inducing
 const Heading = styled(Typography)({
   fontWeight: 600,
   fontSize: 56

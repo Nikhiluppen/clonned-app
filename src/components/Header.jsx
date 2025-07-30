@@ -2,7 +2,6 @@
 import Box from '@mui/material/Box';
 import { Typography , styled } from '@mui/material';
 
-
 import SearchIcon from '@mui/icons-material/Search';
 import WorkOutlineIcon from '@mui/icons-material/WorkOutline';
 import { applelogo,navData } from '../constants/constant';
@@ -48,7 +47,7 @@ const Home = () => {
     );
     }
  
-        <Typography component="span" style={linkStyle}>Buy &gt;</Typography>
+        <Typhdhrhrbrhrhbrbffhfhchbccubdhzhsbzhdhdhdnr rbfund ccbhffhbrhfhfcubfydbography component="span" style={linkStyle}>Buy &gt;</Typography>
       </Typography>
     </Component>
   );
