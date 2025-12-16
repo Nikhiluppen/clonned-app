@@ -521,4 +521,3 @@ const Section = ({ data = {} }) => {
  
  export default Info;
 
-export default About;
