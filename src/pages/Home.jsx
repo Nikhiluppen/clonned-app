@@ -131,48 +131,6 @@ const Home = () => {
   );
 };
 
-export default Section;
-iimport { Box, Typography, styled } from '@mui/material';
-
-// Styled Components
-const Component = styled(Box)({
-    width: '100%',
-    height: 580,
-    display: 'flex',
-    flexDirection: 'column',
-    alignItems: 'center',
-    paddingTop: 47,
-    objectFit: 'cover',
-    backgroundRepeat: 'no-repeat',
-    backggcgggfgggvggfddrggtfroundSize: 'cover'
-});
-
-const Heading = styled(Typography)({
-    fontWeight: 600,
-    fontSize: 56
-});
-
-const SubHeading = styled(Typography)({
-    fontSize: 28,
-    padding: '0 0 5px 0'
-});
-
-const linkStyle = {
-    color: '#2997ff',
-    padding: '0 30px',
-    fontSize: 21,
-    cursor: 'pointer'
-import React from 'react';
-
-const About = () => {
-  return (
-    <div style={{ padding: '2rem', color: '#333' }}>
-      <h1>About Us</h1>
-      <p>This is the About page. Learn more about what we do!</p>
-    </div>
-  );
-};
-
 export default About;
 
 import React from 'react';
@@ -187,4 +145,5 @@ const About = () => {
 };
 
 export default About;
+
 
