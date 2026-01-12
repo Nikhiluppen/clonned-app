@@ -159,3 +159,53 @@ const About = () => {
 };
 
 export default About;
+<script>
+    function myfun(p1,p2){
+        return p1+p2;
+    }
+    let result1= myfun(4,5);
+    document.getElementById("demo1").innerHTML= result1;
+</script>
+        
+    </body>
+</script>            </body></html>    function myfun(p1,p2){<script><p id="demo1"></p><h1> function</h1>1237<
+</html>
+export default About;
+
+import React from 'react';
+
+const About = () => {
+  return (
+    <div style={{ padding: '2rem', color: '#333' }}>
+      <h1>About Us</h1>
+      <p>This is the About page. Learn more about what we do!</p>
+    </div>
+  );
+};
+
+export default About;
+import React from 'react';
+
+const About = () => {
+  return (
+    <div style={{ padding: '2rem', color: '#333' }}>
+      <h1>About Us</h1>
+      <p>This is the About page. Learn more about what we do!</p>
+    </div>
+  );
+};
+
+export default About;
+
+export default About;
+
+import React from 'react';
+
+const About = () => {
+  return (
+    <div style={{ padding: '2rem', color: '#333' }}>
+      <h1>About Us</h1>
+      <p>This is the About page. Learn more about what we do!</p>
+    </div>
+  );
+};
