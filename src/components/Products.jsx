@@ -482,6 +482,27 @@ const About = () => {
   
   export default About;
   
+  import SearchIcon from '@mui/icons-material/Search';
+  import WorkOutlineIcon from '@mui/icons-material/WorkOutline';
+  import { applelogo,navData } from '../constants/constant';
+  // import { Opacity } from '@mui/icons-material';  
+  
+  export default About;
+  
+  export default About;
+  
+  import React from 'react';
+  
+  const About = () => {
+    return (
+      <div style={{ padding: '2rem', color: '#333' }}>
+        <h1>About Us</h1>
+        <p>This is the About page. Learn more about what we do!</p>
+      </div>
+    );
+    );
+    );
+    );v
   export default About;
   
   import React from 'react';
