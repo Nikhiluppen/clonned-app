@@ -480,14 +480,5 @@ const About = () => {
             <p>This is the About page. Learn more about what we do!</p>
           </div>
         );
-        );
-        );
-        );v
-      export default About;
-      
-      import React from 'react';
-      
-      const About = () => {
-        return (
-
+        
 
