@@ -308,3 +308,32 @@ import SearchIcon from '@mui/icons-material/Search';
 import WorkOutlineIcon from '@mui/icons-material/WorkOutline';
 import { applelogo,navData } from '../constants/constant';
 // import { Opacity } from '@mui/icons-material';  
+
+import Box from '@mui/material/Box';
+import { Typography , styled } from '@mui/material';
+
+
+import SearchIcon from '@mui/icons-material/Search';
+import WorkOutlineIcon from '@mui/icons-material/WorkOutline';
+import { applelogo,navData } from '../constants/constant';
+// import { Opacity } from '@mui/icons-material';  
+ return (
+    <Component style={{ background: `url(${imageURL}) 50% 50% no-repeat` }}>
+      <Heading style={{ color: headColor }}>{heading}</Heading>
+      <SubHeading style={{ color: subHeadColor }}>{subHeading}</SubHeading>
+      <Typography>
+        </import React from 'react';
+        // import Home from './pages/Home';
+        import Header from '../components/Header';
+        import Info from '../components/Info';
+        import Section from '../components/Section';
+        import Products from '../components/Products';
+
+import Box from '@mui/material/Box';
+import { Typography , styled } from '@mui/material';
+
+
+import SearchIcon from '@mui/icons-material/Search';
+import WorkOutlineIcon from '@mui/icons-material/WorkOutline';
+import { applelogo,navData } from '../constants/constant';
+// import { Opacity } from '@mui/icons-material';  
