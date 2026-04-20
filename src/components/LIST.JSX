@@ -768,3 +768,27 @@ import SearchIcon from '@mui/icons-material/Search';
 import WorkOutlineIcon from '@mui/icons-material/WorkOutline';
 import { applelogo,navData } from '../constants/constant';
 // import { Opacit
+import SearchIcon from '@mui/icons-material/Search';
+import WorkOutlineIcon from '@mui/icons-material/WorkOutline';
+import { applelogo,navData } from '../constants/constant';
+// import { Opacity } from '@mui/icons-material';  
+   import Info from '../components/Info';
+        import Section from '../components/Section';
+        import Products from '../components/Products';
+
+import Box from '@mui/material/Box';
+import { Typography , styled } from '@mui/material';
+
+
+import SearchIcon from '@mui/icons-material/Search';
+import WorkOutlineIcon from '@mui/icons-material/WorkOutline';
+import { applelogo,navData } from '../constants/constant';
+// import { Opacit
+import Box from '@mui/material/Box';
+import { Typography , styled } from '@mui/material';
+
+
+import SearchIcon from '@mui/icons-material/Search';
+import WorkOutlineIcon from '@mui/icons-material/WorkOutline';
+import { applelogo,navData } from '../constants/constant';
+// import { Opacit
