@@ -291,6 +291,7 @@ import { Typography , styled } from '@mui/material';
 
 
 import SearchIcon from '@mui/icons-material/Search';
+import { applelogo,navData } from '../constants/constant';
 import WorkOutlineIcon from '@mui/icons-material/WorkOutline';
 import { applelogo,navData } from '../constants/constant';
 // import { Opacit
