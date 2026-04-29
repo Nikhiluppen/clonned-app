@@ -388,7 +388,8 @@ import { Typography , styled } from '@mui/material';
 
 import SearchIcon from '@mui/icons-material/Search';
 import WorkOutlineIcon from '@mui/icons-material/WorkOutline';
-import { applelogo,navData } from '../constants/constant';
+import { applelogo,navDAI Prompt:
+Write a cold outreach email to a hiring manager at [Company] introducing myself for a [type of role] position. No job posting exists — I'm creating the opportunity. Open with one specific, researched observation about their company or team that shows I've done my homework. Keep it under 120 words. End with a low-pressure ask — not a 30-minute call, something smaller.ata } from '../constants/constant';
 // import { Opacit
 import Box from '@mui/material/Box';
 import { Typography , styled } from '@mui/material';
