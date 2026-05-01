@@ -513,7 +513,7 @@ import { applelogo,navData } from '../constants/constant';
 import Box from '@mui/material/Box';
 import { Typography , styled } from '@mui/material';
 
-
+src/components/Navbar.jsx
 import SearchIcon from '@mui/icons-material/Search';
 import WorkOutlineIcon from '@mui/icons-material/WorkOutline';
 import { applelogo,navData } from '../constants/constant';
