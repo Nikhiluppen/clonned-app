@@ -304,7 +304,19 @@ import { Typography , styled } from '@mui/material';
 
 
 
+mport WorkOutlineIcon from '@mui/icons-material/WorkOutline';
+import { applelogo,navData } from '../constants/constant';
+// import { Opacit
 
+import SearchIcon from '@mui/icons-material/Search';
+import WorkOutlineIcon from '@mui/icons-material/WorkOutline';
+import { applelogo,navData } from '../constants/constant';
+// import { Opacit
+
+import SearchIcon from '@mui/icons-material/Search';
+import WorkOutlineIcon from '@mui/icons-material/WorkOutline';
+import { applelogo,navData } from '../constants/constant';
+// import { Opacit
 
 import SearchIcon from '@mui/icons-material/Search';
 import WorkOutlineIcon from '@mui/icons-material/WorkOutline';

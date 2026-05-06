@@ -942,7 +942,19 @@ import { Typography , styled } from '@mui/material';
 
 import SearchIcon from '@mui/icons-material/Search';
 import WorkOutlineIcon from '@mui/icons-material/WorkOutline';
+import { applelogo,navData } from '.mport WorkOutlineIcon from '@mui/icons-material/WorkOutline';
 import { applelogo,navData } from '../constants/constant';
+// import { Opacit
+
+import SearchIcon from '@mui/icons-material/Search';
+import WorkOutlineIcon from '@mui/icons-material/WorkOutline';
+import { applelogo,navData } from '../constants/constant';
+// import { Opacit
+
+import SearchIcon from '@mui/icons-material/Search';
+import WorkOutlineIcon from '@mui/icons-material/WorkOutline';
+import { applelogo,navData } from '../constants/constant';
+// import { Opacit./constants/constant';
 // import { Opacit
 
 import SearchIcon from '@mui/icons-material/Search';
